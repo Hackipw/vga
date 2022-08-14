@@ -76,7 +76,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCEV2.1|lolcat'
+    banner='figlet VGA CLUB|lolcat'
     numbers=[]
     while(y):
         clear()
@@ -135,7 +135,7 @@ if(expirydate>today):
             period=290
             hero()
     elif(now>Second and now<Secondend):
-            period=499
+            period=500
             hero()
     elif(now>Third and now<Thirdend):
             period=410
