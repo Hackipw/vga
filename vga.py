@@ -170,7 +170,7 @@ else:
     test="BHGFV43"
     night="NICMJY13"
     nextday="NNMKJHFD"
-    banner='figlet RXCEV2.1|lolcat'
+    banner='figlet VGA CLUB|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=14, minute=25, second=0, microsecond=0)
@@ -233,7 +233,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @RXCE_HACKING")
         elif(bhai==nextday):
             clear()
-            banner='figlet RXCEV2.1|lolcat'
+            banner='figlet VGA CLUB|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("8th-14th Dec 2021, 02:30 PM- 03:00 PM")
@@ -262,7 +262,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @RXCE_HACKING")
         else:
             clear()
-            banner='figlet RXCEV2.1|lolcat'
+            banner='figlet VGA CLUB|lolcat'
             system(banner)
             print(f"{red}Contact @RXCE_HACKING :")
      
