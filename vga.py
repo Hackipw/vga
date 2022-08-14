@@ -141,7 +141,7 @@ if(expirydate>today):
             period=410
             hero()
     else:
-        banner='figlet RXCEV2.1|lolcat'
+        banner='figlet VGA CLUB|lolcat'
         system(banner)
         print(f"{red}""Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
